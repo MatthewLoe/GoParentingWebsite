@@ -1,0 +1,17 @@
+#Title {
+    text-align: center;
+}
+
+#Container {
+    display: flex;
+    background-color:blue;
+    border-style: solid;
+    border-color: black;
+    margin: 1%;
+    text-align: center;
+    padding: 1%;
+}
+
+h2 {
+    color: yellow;
+}
