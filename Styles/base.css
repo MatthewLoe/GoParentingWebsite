@@ -9,26 +9,9 @@ img {
 }
 
 header {
-    background: aquamarine;
-    padding: 20px;
     text-align: center;
-    color: white;
-    font-size: 30px;
-}
-
-#text {
-    color: blue;
-    text-align: justify;
-    margin: 5%;
-
 }
 
 html {
     overflow-x: hidden;
-}
-
-
-
-.Title {
-    color: blue;
 }
